@@ -39,16 +39,4 @@ let citas = [
     'autor': 'Mark Twain',
     'texto': 'Los dos días más importantes de tu vida son el día que naciste y el día que descubres por qué.'
   },
-  {
-    'autor': 'El Fidel',
-    'texto': 'Mejor pájaro en mano que sida en el ano'
-  },
-  {
-    'autor': 'El Amigo del Agus',
-    'texto': 'Sabrá algo el culiado ese?'
-  },
-  {
-    'autor': 'Santiago Ibarra',
-    'texto': 'Chupa y fuma, chupa y fuma.'
-  },
 ];
