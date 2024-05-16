@@ -16,7 +16,7 @@ let citas = [
     'texto': 'Lo más dificil es tomar la decisión de actuar. El resto es simplemente tenacidad.'
   },
   {
-    'autor': 'Aristotle',
+    'autor': 'Aristóteles',
     'texto': 'La calidad no es un acto, es un hábito.'
   },
   {
